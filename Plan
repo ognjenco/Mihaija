@@ -1,0 +1,21 @@
+Trener
+Clan
+Sala
+Termin
+Grupa
+
+Trener: ime,prezime,ID
+
+Clan: ime,prezime,godiste,grupa
+
+Grupa: clanove,trener,ID(string)
+
+Sala: ID(naziv)
+
+Termin: sala,grupa,vrijeme,datum
+
+
+
+
+Napomena:
+Da li su članarine iste,kako se zakupljuju termini?
